@@ -16,7 +16,7 @@ Below is a growing collection of scripts and models supporting sustainable energ
 - **File**: `Hybrid_Renewable_Integration.m`
 - **Description**: A MATLAB script simulating a hybrid solar PV and wind energy system integrated into a power distribution grid. Launched today, October 07, 2025, it calculates power outputs based on irradiance, temperature, and wind speed, applies a basic MPPT approximation, and estimates daily energy yield and grid contribution. Saves results to CSV for MEP integration.
 - **Benefits**: Saves 5–10 hours per analysis, supports NEC 2023-compliant designs, and aids renewable project planning.
-- **Location**: `github.com/DynMEP/GreenPowerHub/tree/main/matlab`
+- **Location**: `github.com/DynMEP/GreenPowerHub/tree/main`
 - **Usage**: Run in MATLAB with customizable parameters (e.g., `PV_rated_power`, `wind_speed`).
 
 ### 2. [Future Addition] Renewable Load Optimizer 📊
