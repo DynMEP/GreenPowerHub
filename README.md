@@ -1,22 +1,22 @@
 # 🌱 GreenPowerHub
 
-Welcome to **GreenPowerHub**, created by Alfonso Antonio Dávila Vera! With over 25 years of experience in electrical engineering, specializing in power systems and distribution, I am dedicated to advancing sustainable energy solutions. This repository is a hub for tools, simulations, and resources that promote the integration of renewable energy sources, enhance the efficiency, reliability, and safety of electrical power systems, and support the widespread adoption of green technologies. Built on my expertise in high-voltage equipment, blueprints, schematics, and tools like MATLAB, ETAP, DIALux, AutoCAD, Revit, and Dynamo, the resources here are designed to drive innovation in MEP and energy infrastructure. Hosted under the MIT License, explore below to contribute to a greener future. New content is added regularly—check back often!
+Welcome to **GreenPowerHub**, created by Alfonso Antonio Dávila Vera! As an electrical engineer with over 25 years of experience in power systems and distribution, I am passionate about advancing sustainable energy solutions. This repository is a hub for tools, simulations, and resources that promote the integration of renewable energy sources—such as solar PV and wind—while enhancing the efficiency, reliability, and safety of electrical power systems. Inspired by a vision of a greener future (see banner image), these efforts align with my EB-2 NIW professional plan to drive widespread renewable adoption and shape the future of energy infrastructure in the United States. Built on my expertise with tools like MATLAB, ETAP, DIALux, AutoCAD, Revit, and Dynamo, the content here is hosted under the MIT License. Explore below to contribute to a sustainable tomorrow—new resources are added regularly!
 
 ## 🌞 Mission
-Aligned with my proposed endeavor for the EB-2 NIW visa, GreenPowerHub aims to:
-- Develop tools for renewable energy integration (solar PV, wind, hybrid systems).
+Launched on October 07, 2025, GreenPowerHub reflects my commitment to:
+- Develop innovative tools for renewable energy integration.
 - Enhance power system efficiency and reliability through data-driven simulations.
-- Foster collaboration with stakeholders (government, research, industry) to shape sustainable energy infrastructure.
-- Contribute to U.S. economic growth, technology transfer, and environmental benefits.
+- Foster collaboration with diverse stakeholders (government, research, industry) to support U.S. energy transition.
+- Contribute to economic growth, technology transfer, and environmental benefits as outlined in my professional plan.
 
 ## 🔧 Tools & Resources
-Below is a growing collection of scripts, models, and documentation supporting sustainable energy solutions.
+Below is a growing collection of scripts and models supporting sustainable energy solutions.
 
 ### 1. Hybrid Renewable Energy Integration Simulator 🌬️☀️
 - **File**: `Hybrid_Renewable_Integration.m`
-- **Description**: A MATLAB script simulating a hybrid solar PV and wind energy system integrated into a power distribution grid. It calculates power outputs based on irradiance, temperature, and wind speed, applies a basic MPPT approximation, and estimates daily energy yield and grid contribution. Saves results to CSV for MEP integration.
-- **Benefits**: Saves 5–10 hours per analysis, supports NEC-compliant designs, and aids renewable project planning.
-- **Location**: `github.com/GreenPowerHub/GreenPowerHub/tree/main/matlab`
+- **Description**: A MATLAB script simulating a hybrid solar PV and wind energy system integrated into a power distribution grid. Launched today, October 07, 2025, it calculates power outputs based on irradiance, temperature, and wind speed, applies a basic MPPT approximation, and estimates daily energy yield and grid contribution. Saves results to CSV for MEP integration.
+- **Benefits**: Saves 5–10 hours per analysis, supports NEC 2023-compliant designs, and aids renewable project planning.
+- **Location**: `github.com/DynMEP/GreenPowerHub/tree/main/matlab`
 - **Usage**: Run in MATLAB with customizable parameters (e.g., PV size, wind turbine specs).
 
 ### 2. [Future Addition] Renewable Load Optimizer 📊
@@ -32,7 +32,7 @@ Below is a growing collection of scripts, models, and documentation supporting s
 - **Revit/Dynamo** (optional): For MEP integration with future Python scripts.
 
 ### Setup
-1. Clone the repo: `git clone https://github.com/GreenPowerHub/GreenPowerHub.git`
+1. Clone the repo: `git clone https://github.com/DynMEP/GreenPowerHub.git`
 2. Navigate to the desired folder (e.g., `/matlab` for MATLAB scripts).
 3. Run scripts in their respective environments (MATLAB for `.m`, Python for `.py`).
 4. Customize input data (e.g., irradiance, wind speed) based on project needs.
@@ -44,25 +44,25 @@ Below is a growing collection of scripts, models, and documentation supporting s
 ## 🎯 Benefits
 - **Time Savings**: Reduce analysis time by 5–10 hours per project.
 - **Sustainability Impact**: Support renewable adoption, reduce carbon footprint, and enhance U.S. energy resilience.
-- **Economic Value**: Contribute to infrastructure development, R&D, and technology transfer as outlined in my professional plan.
+- **Economic Value**: Contribute to infrastructure development, R&D, and technology transfer.
 - **NEC Compliance**: Ensure designs meet 2023 standards for safe integration.
 
 ## 🌍 Contributing to the U.S.
-This repository reflects my commitment to:
-- **Economic Growth**: Streamlining renewable projects boosts job creation in the $1.5T U.S. construction sector.
-- **Technology Transfer**: Open-source tools enable widespread adoption by MEP firms and researchers.
-- **Environmental Benefits**: Simulations optimize resource use, reducing waste and emissions.
+This repository aligns with my professional plan’s goals:
+- **Economic Growth**: Streamlines renewable projects, boosting the $1.5T U.S. construction sector.
+- **Technology Transfer**: Open-source tools enable adoption by MEP firms and researchers.
+- **Environmental Benefits**: Optimizes resource use, reducing emissions and waste.
 
 ## 📜 License
 Licensed under the MIT License. See LICENSE for details.
 
 ## 🤝 Let’s Collaborate
-Got a renewable energy challenge or need custom simulations? Explore, fork, or contribute to `github.com/GreenPowerHub`! Submit pull requests, open issues, or reach out via GitHub Issues for consulting or custom development.
+Got a renewable energy challenge or need custom simulations? Explore, fork, or contribute to `github.com/DynMEP/GreenPowerHub`! Submit pull requests, open issues, or reach out via GitHub Issues for consulting or custom development.
 
 **Author**: Alfonso Antonio Dávila Vera  
 **Email**: davila.alfonso@gmail.com  
 **LinkedIn**: www.linkedin.com/in/alfonso-davila-3a121087  
-**GitHub**: github.com/GreenPowerHub  
+**GitHub**: github.com/DynMEP  
 **Website (Coming Soon)**: greenpowerhub.com  
 **YouTube**: @GreenPowerHub  
 
