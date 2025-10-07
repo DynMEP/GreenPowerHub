@@ -33,7 +33,7 @@ Below is a growing collection of scripts and models supporting sustainable energ
 
 ### Setup
 1. Clone the repo: `git clone https://github.com/DynMEP/GreenPowerHub.git`
-2. Navigate to the desired folder (e.g., `/matlab` for MATLAB scripts).
+2. Navigate to the desired folder.
 3. Run scripts in their respective environments (MATLAB for `.m`, Python for `.py`).
 4. Customize input data (e.g., irradiance, wind speed) based on project needs.
 
