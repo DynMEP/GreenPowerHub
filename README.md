@@ -1,6 +1,6 @@
 # 🌱 GreenPowerHub
 
-Welcome to **GreenPowerHub**, created by Alfonso Antonio Dávila Vera! With over 25 years of experience in electrical engineering—specializing in power systems, distribution, and sustainable energy solutions. I am passionate about advancing a greener future. This repository, serves as a hub for tools, simulations, and resources that promote the integration of renewable energy sources like solar PV and wind, while enhancing the efficiency, reliability, and safety of electrical power systems. Built on my expertise with MATLAB, ETAP, DIALux, AutoCAD, Revit, and Dynamo, the content here is hosted under the MIT License. Explore below to contribute to a sustainable tomorrow, new resources are added regularly!
+Welcome to **GreenPowerHub**, created by Alfonso Antonio Dávila Vera! With over 25 years of experience in electrical engineering, specializing in power systems, distribution, and sustainable energy solutions. I am passionate about advancing a greener future. This repository, serves as a hub for tools, simulations, and resources that promote the integration of renewable energy sources like solar PV and wind, while enhancing the efficiency, reliability, and safety of electrical power systems. Built on my expertise with MATLAB, ETAP, DIALux, AutoCAD, Revit, and Dynamo, the content here is hosted under the MIT License. Explore below to contribute to a sustainable tomorrow, new resources are added regularly!
 
 ## 🌞 Mission
 GreenPowerHub reflects:
