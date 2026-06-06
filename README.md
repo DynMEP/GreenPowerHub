@@ -60,7 +60,7 @@ Got a renewable energy challenge or need custom simulations? Explore, fork, or c
 
 **Author**: Alfonso Antonio Davila Vera  
 **Email**: davila.alfonso@gmail.com  
-**LinkedIn**: www.linkedin.com/in/alfonso-davila-3a121087  
+**LinkedIn**: [https://www.linkedin.com/in/alfonso-davila-vera](https://www.linkedin.com/in/alfonso-davila-vera)   
 **GitHub**: github.com/DynMEP  
 
 
