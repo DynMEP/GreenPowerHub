@@ -56,7 +56,7 @@ Below is a growing collection of scripts and models supporting sustainable energ
 Licensed under the MIT License. See LICENSE for details.
 
 ## 🤝 Let’s Collaborate
-Got a renewable energy challenge or need custom simulations? Explore, fork, or contribute to `github.com/DynMEP/GreenPowerHub`! Submit pull requests, open issues, or reach out via GitHub Issues for consulting. Check my LinkedIn post (linkedin.com/in/alfonso-davila-3a121087) for the launch announcement!
+Got a renewable energy challenge or need custom simulations? Explore, fork, or contribute to `github.com/DynMEP/GreenPowerHub`! Submit pull requests, open issues, or reach out via GitHub Issues for consulting. Check my LinkedIn post (linkedin.com/in/alfonso-davila-vera) for the launch announcement!
 
 **Author**: Alfonso Antonio Davila Vera  
 **Email**: davila.alfonso@gmail.com  
